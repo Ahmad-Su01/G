@@ -1,1 +1,3 @@
-import math
+import keyword
+
+print(keyword.kwlist)
